@@ -1,5 +1,6 @@
 *{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 24px;
     Margin: 0;
 }
 body{
@@ -19,6 +20,6 @@ body{
     min-width: 450px;
     height: 300px;
     margin-top: 40px;
-    padding: 40px;
+    padding-bottom: 90px;
     background-color: azure;
 }
