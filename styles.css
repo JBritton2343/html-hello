@@ -19,8 +19,8 @@ body{
     padding-left: 60px;
 }
 #box one{
-    min-width: 450px;
-    height: 300px;
+    min-width: 250px;
+    height: 200px;
     margin-top: 400px;
     padding-bottom: 400px;
     background-color: azure;
@@ -28,8 +28,8 @@ body{
     align-items: center;
 }
 #box two{
-    min-width: 450px;
-    height: 300px;
+    min-width: 250px;
+    height: 200px;
     margin-top: 400px;
     padding-bottom: 400px;
     background-color: azure;
@@ -37,8 +37,8 @@ body{
     align-items: center;
 }
 #box three{
-    min-width: 450px;
-    height: 300px;
+    min-width: 250px;
+    height: 200px;
     margin-top: 400px;
     padding-bottom: 400px;
     background-color: azure;
@@ -46,7 +46,7 @@ body{
     align-items: center;
 }
 #box four{
-    width: 550px;
+    width: 200px;
     height: 700px;
     padding-bottom: 400px;
     background-color: azure;
