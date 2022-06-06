@@ -18,7 +18,8 @@ body{
     justify-content: space-between;
     align-items: center;
     padding-left: 60px;
-    
+    overflow-y: auto;
+    overflow-x: auto;
 }
 #box one{
     min-width: 250px;
@@ -28,8 +29,7 @@ body{
     background-color: azure;
     justify-content: center;
     align-items: center;
-    Overflow-x: hidden;
-    overflow-y: auto;
+    
 }
 #box two{
     min-width: 250px;
@@ -39,8 +39,7 @@ body{
     background-color: azure;
     justify-content: center;
     align-items: center;
-    Overflow-x: hidden;
-    overflow-y: auto;
+    
 }
 #box three{
     min-width: 250px;
@@ -50,8 +49,7 @@ body{
     background-color: azure;
     justify-content: center;
     align-items: center;
-    Overflow-x: hidden;
-    overflow-y: auto;
+    
 }
 #box four{
     width: 200px;
@@ -60,8 +58,7 @@ body{
     background-color: azure;
     justify-content: center;
     align-items: center;
-    Overflow-x: hidden;
-    overflow-y: hidden;
+    
 }
 p{
     text-align: center;
