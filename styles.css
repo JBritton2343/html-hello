@@ -14,7 +14,7 @@ body{
 .flex-cont{
     display: flex;
     flex-flow: column;
-    align-items: center;
+    
 }
 .box{
     min-width: 450px;
@@ -22,4 +22,6 @@ body{
     margin-top: 200px;
     padding-bottom: 100px;
     background-color: azure;
+    justify-content: center;
+    align-items: center;
 }
