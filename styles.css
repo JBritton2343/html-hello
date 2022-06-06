@@ -14,7 +14,8 @@ body{
 .flex-cont{
     display: flex;
     flex-flow: column;
-    
+    justify-content: space-between;
+    align-items: center;
 }
 .box one{
     min-width: 450px;
