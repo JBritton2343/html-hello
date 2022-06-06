@@ -19,7 +19,7 @@ body{
 .box{
     min-width: 450px;
     height: 300px;
-    margin-top: 40px;
-    padding-bottom: 90px;
+    margin-top: 200px;
+    padding-bottom: 100px;
     background-color: azure;
 }
