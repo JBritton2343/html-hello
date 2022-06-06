@@ -47,8 +47,8 @@ body{
 }
 #box four{
     min-width: 550px;
-    height: 600px;
-    margin-top: 400px;
+    height: 700px;
+    padding-top: 800px;
     padding-bottom: 400px;
     background-color: azure;
     justify-content: center;
