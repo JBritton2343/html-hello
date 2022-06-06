@@ -5,7 +5,6 @@
 }
 body{
     background: gray;
-    scroll-behavior: auto;
 }
 #wrapper{
     width: 100%;
@@ -29,6 +28,8 @@ body{
     background-color: azure;
     justify-content: center;
     align-items: center;
+    Overflow-x: hidden;
+    overflow-y: auto;
 }
 #box two{
     min-width: 250px;
@@ -38,6 +39,8 @@ body{
     background-color: azure;
     justify-content: center;
     align-items: center;
+    Overflow-x: hidden;
+    overflow-y: auto;
 }
 #box three{
     min-width: 250px;
@@ -47,6 +50,8 @@ body{
     background-color: azure;
     justify-content: center;
     align-items: center;
+    Overflow-x: hidden;
+    overflow-y: auto;
 }
 #box four{
     width: 200px;
@@ -55,6 +60,8 @@ body{
     background-color: azure;
     justify-content: center;
     align-items: center;
+    Overflow-x: hidden;
+    overflow-y: auto;
 }
 p{
     text-align: center;
