@@ -6,19 +6,19 @@
 body{
     background: gray;
 }
-.wrapper{
+#wrapper{
     width: 100%;
     min-width: 960px;
     margin: 4 auto;
 }
-.flex-cont{
+#flex-cont{
     display: flex;
     flex-flow: column;
     justify-content: space-between;
     align-items: center;
     padding-left: 60px;
 }
-.box one{
+#box one{
     min-width: 450px;
     height: 300px;
     margin-top: 200px;
@@ -27,7 +27,7 @@ body{
     justify-content: center;
     align-items: center;
 }
-.box two{
+#box two{
     min-width: 450px;
     height: 300px;
     margin-top: 200px;
@@ -36,7 +36,7 @@ body{
     justify-content: center;
     align-items: center;
 }
-.box three{
+#box three{
     min-width: 450px;
     height: 300px;
     margin-top: 200px;
@@ -45,7 +45,7 @@ body{
     justify-content: center;
     align-items: center;
 }
-.box four{
+#box four{
     min-width: 450px;
     height: 300px;
     margin-top: 200px;
