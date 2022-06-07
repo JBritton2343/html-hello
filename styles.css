@@ -58,7 +58,7 @@ body{
     background-color: azure;
     justify-content: center;
     align-items: center;
-    
+    padding-top: 60px;
 }
 p{
     text-align: center;
@@ -70,4 +70,5 @@ h1{
     text-align: center;
     color: gold;
     background-color: azure;
+
 }
