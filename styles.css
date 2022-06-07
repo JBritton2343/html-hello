@@ -35,7 +35,7 @@ body{
     min-width: 250px;
     height: 200px;
     margin-top: 400px;
-    padding-bottom: 400px;
+    padding-bottom: 40px;
     background-color: azure;
     justify-content: center;
     align-items: center;
@@ -45,7 +45,7 @@ body{
     min-width: 250px;
     height: 200px;
     margin-top: 400px;
-    padding-bottom: 400px;
+    padding-bottom: 40px;
     background-color: azure;
     justify-content: center;
     align-items: center;
@@ -54,11 +54,12 @@ body{
 #box four{
     width: 200px;
     height: 700px;
-    padding-bottom: 400px;
+    padding-bottom: 40px;
     background-color: azure;
     justify-content: center;
     align-items: center;
     padding-top: 600px;
+    margin-top: 400px;
 }
 p{
     text-align: center;
