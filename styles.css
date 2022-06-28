@@ -11,6 +11,7 @@ body{
     min-width: 960px;
     margin: 4 auto;
     padding-top: 45px;
+    background-color: black;
 }
 #flex-cont{
     display: flex;
@@ -30,50 +31,4 @@ body{
     justify-content: center;
     align-items: center;
     
-}
-#box two{
-    min-width: 250px;
-    height: 200px;
-    margin-top: 400px;
-    padding-bottom: 40px;
-    background-color: azure;
-    justify-content: center;
-    align-items: center;
-    
-}
-#box three{
-    min-width: 250px;
-    height: 200px;
-    margin-top: 400px;
-    padding-bottom: 40px;
-    background-color: azure;
-    justify-content: center;
-    align-items: center;
-    
-}
-#box four{
-    width: 200px;
-    padding-bottom: 40px;
-    background-color: azure;
-    justify-content: center;
-    align-items: center;
-    padding-top: 600px;
-    margin-top: 400px;
-}
-p{
-    text-align: center;
-    color: gold;
-    padding-bottom: 45px;
-    background-color: azure;
-}
-h1{
-    text-align: center;
-    color: gold;
-    background-color: azure;
-
-}
-#wand{
-    height: 450px;
-    width: 800px;
-    padding-top: 3;
 }
